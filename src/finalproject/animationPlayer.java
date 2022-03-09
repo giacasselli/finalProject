@@ -7,4 +7,5 @@ public class animationPlayer {
         System.out.println("Hello World! What up!");
         System.out.println("Can you see this output?");
     }  
+    //hello
 }
